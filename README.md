@@ -16,7 +16,8 @@ Credit card fraud is a significant concern for financial institutions and indivi
 The system is designed to analyze historical credit card transaction data and identify patterns indicative of fraud. By training a machine learning model on a labeled dataset, the system can learn to recognize fraudulent transactions based on various features such as transaction amount, location, time, etc.
 
 # Dataset
-The dataset used for this project is not included in this repository due to its large size. However, I've given the link for the dataset here - [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download&select=creditcard.csv) 
+The dataset used for this project is not included in this repository due to its large size. 
+However, I've given the link for the dataset here - [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download&select=creditcard.csv) 
 
 # Installation
 To set up the environment for running this project, follow these steps:

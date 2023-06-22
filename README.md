@@ -6,7 +6,7 @@ This repository contains code and resources for a credit card fraud detection sy
 - [Dataset](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#dataset) 
 - [Installation](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#installation) 
 - [Usage](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#usage) 
-- [Model Training](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#modeltraining) 
+- [Model Training](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#model-training) 
 - [Evaluation](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#evaluation) 
 - [Deployment](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#deployment) 
   

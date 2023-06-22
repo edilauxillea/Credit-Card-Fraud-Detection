@@ -57,8 +57,8 @@ Before training a model, the dataset needs to be preprocessed. Follow these step
 
 # Model Training
 This project utilizes machine learning algorithms for fraud detection. The steps for training a model are as follows:
-1. Select an appropriate machine learning algorithm, such as logistic regression or random forest.
-2. Initialize the model with suitable hyperparameters.
+1. Select an appropriate machine learning algorithm, such as logistic regression or random forest. Here I've used Random Forest Classifier. 
+2. Initialize the model with suitable hyperparameters and tune it (Hyperparameter Tuning). 
 3. Train the model using the preprocessed training data.
 4. Optimize the model by tuning hyperparameters using techniques like cross-validation.
 5. Save the trained model for future use.

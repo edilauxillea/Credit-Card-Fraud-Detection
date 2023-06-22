@@ -2,7 +2,7 @@
 This repository contains code and resources for a credit card fraud detection system. The goal of this project is to develop a machine learning model that can accurately identify fraudulent credit card transactions from a given dataset.
 
 # Table of Contents
-- Introduction
+- [Introduction](https://github.com/edilauxillea/Credit-Card-Fraud-Detection/blob/main/README.md#introduction) 
 - Dataset
 - Installation
 - Usage
